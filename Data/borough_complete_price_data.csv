@@ -1,0 +1,558 @@
+ID,Borough,Price,M2
+1,Benito Juárez,45000,180
+2,Benito Juárez,12500,32
+3,Benito Juárez,30000,70
+4,Benito Juárez,45000,180
+5,Benito Juárez,85000,240
+6,Benito Juárez,45000,180
+7,Benito Juárez,85000,102
+8,Benito Juárez,150000,350
+9,Benito Juárez,14500,196
+10,Benito Juárez,13300,60
+11,Benito Juárez,25900,50
+12,Benito Juárez,20000,6
+13,Benito Juárez,68000,115
+14,Benito Juárez,21000,103
+15,Benito Juárez,32550,93
+16,Benito Juárez,38000,80
+17,Benito Juárez,125000,230
+18,Benito Juárez,100000,525
+19,Benito Juárez,67000,115
+20,Benito Juárez,22500,85
+21,Benito Juárez,25900,50
+22,Benito Juárez,12000,25
+23,Benito Juárez,190000,700
+24,Benito Juárez,40000,61
+25,Benito Juárez,19000,103
+26,Benito Juárez,40000,63
+27,Benito Juárez,44000,79
+28,Benito Juárez,68000,150
+29,Benito Juárez,32500,65
+30,Benito Juárez,35000,68
+31,Benito Juárez,138000,430
+32,Benito Juárez,95000,215
+33,Benito Juárez,79000,140
+34,Benito Juárez,22800,73
+35,Benito Juárez,86000,152
+36,Benito Juárez,48869,175
+37,Benito Juárez,30000,24
+38,Benito Juárez,40000,106
+39,Benito Juárez,32500,65
+40,Benito Juárez,312500,1275
+41,Benito Juárez,76154,150
+42,Benito Juárez,133200,148
+43,Benito Juárez,150000,346
+44,Benito Juárez,205000,221
+45,Benito Juárez,13500,15
+46,Benito Juárez,29000,115
+47,Benito Juárez,38500,63
+48,Benito Juárez,69000,76
+49,Benito Juárez,47000,370
+50,Benito Juárez,160000,170
+51,Álvaro Obregón,120000,240
+52,Álvaro Obregón,70000,546
+53,Álvaro Obregón,12000,50
+54,Álvaro Obregón,130000,160
+55,Álvaro Obregón,22000,18
+56,Álvaro Obregón,200000,320
+57,Álvaro Obregón,80000,450
+58,Álvaro Obregón,130000,200
+59,Álvaro Obregón,80000,400
+60,Álvaro Obregón,27800,1500
+61,Álvaro Obregón,63200,127
+62,Álvaro Obregón,76800,400
+63,Álvaro Obregón,27900,85
+64,Álvaro Obregón,17500,70
+65,Álvaro Obregón,55000,75
+66,Álvaro Obregón,38000,150
+67,Álvaro Obregón,35000,107
+68,Álvaro Obregón,90000,192
+69,Álvaro Obregón,227211,344
+70,Álvaro Obregón,500000,1112
+71,Álvaro Obregón,44000,96
+72,Álvaro Obregón,132500,265
+73,Álvaro Obregón,40000,175
+74,Álvaro Obregón,40000,60
+75,Álvaro Obregón,70000,380
+76,Álvaro Obregón,30000,75
+77,Álvaro Obregón,185000,457
+78,Álvaro Obregón,6500,17
+79,Álvaro Obregón,310000,620
+80,Álvaro Obregón,142500,228
+81,Álvaro Obregón,17000,80
+82,Álvaro Obregón,22000,100
+83,Álvaro Obregón,232000,400
+84,Álvaro Obregón,240000,300
+85,Álvaro Obregón,85000,240
+86,Álvaro Obregón,344300,526
+87,Álvaro Obregón,75000,120
+88,Álvaro Obregón,20000,70
+89,Álvaro Obregón,165000,240
+90,Álvaro Obregón,464000,928
+91,Álvaro Obregón,85650,171
+92,Álvaro Obregón,130000,255
+93,Álvaro Obregón,30000,150
+94,Álvaro Obregón,65000,121
+95,Álvaro Obregón,318500,720
+96,Álvaro Obregón,138246,394
+97,Álvaro Obregón,165000,240
+98,Álvaro Obregón,22000,59
+99,Álvaro Obregón,35000,45
+100,Coyoacán,90000,223
+101,Coyoacán,160000,584
+102,Coyoacán,17900,80
+103,Coyoacán,52000,150
+104,Coyoacán,10000,35
+105,Coyoacán,41500,80
+106,Coyoacán,39000,80
+107,Coyoacán,73000,250
+108,Coyoacán,42000,110
+109,Coyoacán,"103,148",171
+110,Coyoacán,15000,112
+111,Coyoacán,15000,22
+112,Coyoacán,60000,170
+113,Coyoacán,22000,22
+114,Coyoacán,95000,300
+115,Coyoacán,7500,24
+116,Coyoacán,21000,38
+117,Coyoacán,20000,40
+118,Coyoacán,39000,80
+119,Coyoacán,85000,250
+120,Coyoacán,30000,70
+121,Coyoacán,130000,270
+122,Coyoacán,22000,80
+123,Coyoacán,100000,174
+124,Coyoacán,62000,190
+125,Coyoacán,80000,300
+126,Coyoacán,49000,250
+127,Coyoacán,160000,649
+128,Coyoacán,210000,228
+129,Coyoacán,50000,390
+130,Coyoacán,9500,29
+131,Coyoacán,8000,15
+132,Coyoacán,12000,33
+133,Coyoacán,180000,400
+134,Coyoacán,25000,250
+135,Coyoacán,98000,280
+136,Coyoacán,93600,156
+137,Coyoacán,90148,171
+138,Coyoacán,55000,233
+139,Coyoacán,48000,160
+140,Coyoacán,90480,156
+141,Coyoacán,113500,480
+142,Coyoacán,16000,143
+143,Coyoacán,80000,286
+144,Coyoacán,30000,70
+145,Coyoacán,61667,166
+146,Coyoacán,100000,175
+147,Coyoacán,335700,746
+148,Coyoacán,160000,300
+149,Cuajimalpa,48000,300
+150,Cuajimalpa,40000,52
+151,Cuajimalpa,28000,153
+152,Cuajimalpa,220000,454
+153,Cuajimalpa,18000,76
+154,Cuajimalpa,38000,87
+155,Cuajimalpa,110000,228
+156,Cuajimalpa,12000,48
+157,Cuajimalpa,75000,210
+158,Cuajimalpa,66000,140
+159,Cuajimalpa,33400,167
+160,Cuajimalpa,234000,560
+161,Cuajimalpa,178200,400
+162,Cuajimalpa,124400,378
+163,Cuajimalpa,100000,384
+164,Cuajimalpa,45000,450
+165,Cuajimalpa,55000,120
+166,Cuajimalpa,51000,115
+167,Cuajimalpa,55000,200
+168,Cuajimalpa,71400,100
+169,Cuajimalpa,"336,600",742
+170,Cuajimalpa,50000,102
+171,Cuajimalpa,"318,550",438
+172,Cuajimalpa,"211,600",400
+173,Cuajimalpa,150013,210
+174,Cuajimalpa,62000,141
+175,Cuajimalpa,123118,250
+176,Cuajimalpa,78000,130
+177,Cuajimalpa,31500,87
+178,Cuajimalpa,22000,45
+179,Cuajimalpa,61000,118
+180,Cuajimalpa,"181,700",359
+181,Cuajimalpa,48000,90
+182,Cuajimalpa,32000,73
+183,Cuajimalpa,80000,260
+184,Cuajimalpa,102000,248
+185,Cuajimalpa,"103,500",290
+186,Cuajimalpa,225000,600
+187,Cuajimalpa,55000,116
+188,Cuajimalpa,46000,115
+189,Cuajimalpa,124400,378
+190,Cuajimalpa,65500,120
+191,Cuajimalpa,12000,48
+192,Cuajimalpa,50000,200
+193,Cuajimalpa,"233,220",390
+194,Cuajimalpa,52500,200
+195,Cuajimalpa,62000,141
+196,Cuauhtémoc,60000,190
+197,Cuauhtémoc,97000,430
+198,Cuauhtémoc,50000,270
+199,Cuauhtémoc,10500,30
+200,Cuauhtémoc,38500,57
+201,Cuauhtémoc,1800000,1800
+202,Cuauhtémoc,90000,132
+203,Cuauhtémoc,38000,135
+204,Cuauhtémoc,43500,62
+205,Cuauhtémoc,120000,195
+206,Cuauhtémoc,35000,50
+207,Cuauhtémoc,130000,222
+208,Cuauhtémoc,37000,57
+209,Cuauhtémoc,110000,1040
+210,Cuauhtémoc,65000,136
+211,Cuauhtémoc,50000,160
+212,Cuauhtémoc,100000,156
+213,Cuauhtémoc,35000,105
+214,Cuauhtémoc,120000,135
+215,Cuauhtémoc,25000,34
+216,Cuauhtémoc,70500,425
+217,Cuauhtémoc,70000,140
+218,Cuauhtémoc,287000,410
+219,Cuauhtémoc,47500,107
+220,Cuauhtémoc,100000,182
+221,Cuauhtémoc,130000,375
+222,Cuauhtémoc,65000,200
+223,Cuauhtémoc,24500,40
+224,Cuauhtémoc,80000,220
+225,Cuauhtémoc,42000,187
+226,Cuauhtémoc,40000,200
+227,Cuauhtémoc,42600,55
+228,Cuauhtémoc,75000,228
+229,Cuauhtémoc,16700,8
+230,Cuauhtémoc,8750,15
+231,Cuauhtémoc,115000,290
+232,Cuauhtémoc,30000,270
+233,Cuauhtémoc,180000,300
+234,Cuauhtémoc,55000,40
+235,Cuauhtémoc,45000,275
+236,Cuauhtémoc,180000,569
+237,Cuauhtémoc,25000,120
+238,Cuauhtémoc,11000,26
+239,Cuauhtémoc,9500,40
+240,Cuauhtémoc,28500,65
+241,Cuauhtémoc,343211,1185
+242,Cuauhtémoc,50000,161
+243,Cuauhtémoc,75000,200
+244,Cuauhtémoc,270000,600
+245,Gustavo A. Madero,20000,90
+246,Gustavo A. Madero,80000,208
+247,Gustavo A. Madero,12000,20
+248,Gustavo A. Madero,180000,1067
+249,Gustavo A. Madero,12500,40
+250,Gustavo A. Madero,30000,150
+251,Gustavo A. Madero,45000,156
+252,Gustavo A. Madero,240000,1838
+253,Gustavo A. Madero,18000,108
+254,Gustavo A. Madero,90000,300
+255,Gustavo A. Madero,79000,230
+256,Gustavo A. Madero,17500,80
+257,Gustavo A. Madero,130800,327
+258,Gustavo A. Madero,60000,287
+259,Gustavo A. Madero,22500,70
+260,Gustavo A. Madero,80000,1200
+261,Gustavo A. Madero,28000,800
+262,Gustavo A. Madero,136000,338
+263,Iztalcalco,35000,140
+264,Iztalcalco,20000,106
+265,Iztalcalco,50000,280
+266,Iztalcalco,45000,3000
+267,Iztalcalco,50000,317
+268,Iztalcalco,5500,25
+269,Iztalcalco,25000,60
+270,Iztalcalco,15000,52
+271,Iztalcalco,18000,126
+272,Iztalcalco,29000,144
+273,Iztalcalco,28000,220
+274,Iztalcalco,15000,52
+275,Iztalcalco,80000,140
+276,Iztalcalco,68000,570
+277,Iztalcalco,259450,625
+278,Iztalcalco,18000,126
+279,Iztalcalco,45000,101
+280,Iztalcalco,21000,123
+281,Iztalcalco,15000,52
+282,Iztalcalco,52500,600
+283,Iztapalapa,20000,100
+284,Iztapalapa,15000,436
+285,Iztapalapa,7500,35
+286,Iztapalapa,70000,581
+287,Iztapalapa,35000,100
+288,Iztapalapa,18000,165
+289,Iztapalapa,35000,150
+290,Iztapalapa,40000,190
+291,Iztapalapa,100000,500
+292,Iztapalapa,22500,50
+293,Iztapalapa,120000,1006
+294,Iztapalapa,112200,561
+295,Iztapalapa,19400,48
+296,Iztapalapa,35000,50
+297,Iztapalapa,22000,203
+298,Iztapalapa,25920,86
+299,Iztapalapa,177500,835
+300,Iztapalapa,17500,38
+301,Iztapalapa,100000,478
+302,Iztapalapa,118000,478
+303,Iztapalapa,75900,968
+304,Iztapalapa,9000,22
+305,Iztapalapa,19000,289
+306,Iztapalapa,95000,380
+307,Iztapalapa,45000,160
+308,Iztapalapa,29000,85
+309,Iztapalapa,30000,140
+310,Iztapalapa,160000,900
+311,Iztapalapa,10000,30
+312,Iztapalapa,30500,110
+313,Iztapalapa,175071,583
+314,Iztapalapa,336000,1120
+315,Iztapalapa,134000,855
+316,Iztapalapa,58800,168
+317,Magdalena Contreras,18000,50
+318,Magdalena Contreras,120000,396
+319,Magdalena Contreras,140000,400
+320,Magdalena Contreras,10000,30
+321,Magdalena Contreras,45000,300
+322,Magdalena Contreras,13000,60
+323,Magdalena Contreras,16000,58
+324,Magdalena Contreras,37000,110
+325,Magdalena Contreras,18500,75
+326,Magdalena Contreras,8000,38
+327,Magdalena Contreras,24500,122
+328,Magdalena Contreras,36800,92
+329,Magdalena Contreras,95000,260
+330,Magdalena Contreras,24000,60
+331,Magdalena Contreras,36800,92
+332,Magdalena Contreras,500000,1200
+333,Magdalena Contreras,12500,61
+334,Magdalena Contreras,16000,65
+335,Magdalena Contreras,12000,38
+336,Magdalena Contreras,23000,90
+337,Magdalena Contreras,9500,46
+338,Magdalena Contreras,7500,12
+339,Miguel Hidalgo,70000,75
+340,Miguel Hidalgo,380000,473
+341,Miguel Hidalgo,140000,140
+342,Miguel Hidalgo,72000,98
+343,Miguel Hidalgo,57134,330
+344,Miguel Hidalgo,"1,034,000",920
+345,Miguel Hidalgo,108700,1801
+346,Miguel Hidalgo,65000,80
+347,Miguel Hidalgo,300000,432
+348,Miguel Hidalgo,900000,1100
+349,Miguel Hidalgo,150997,259
+350,Miguel Hidalgo,75000,165
+351,Miguel Hidalgo,65000,90
+352,Miguel Hidalgo,280000,294
+353,Miguel Hidalgo,700000,1129
+354,Miguel Hidalgo,11500,12
+355,Miguel Hidalgo,160000,450
+356,Miguel Hidalgo,160000,399
+357,Miguel Hidalgo,80000,134
+358,Miguel Hidalgo,36000,110
+359,Miguel Hidalgo,21000,48
+360,Miguel Hidalgo,29500,85
+361,Miguel Hidalgo,150000,272
+362,Miguel Hidalgo,50000,101
+363,Miguel Hidalgo,100000,250
+364,Miguel Hidalgo,66000,65
+365,Miguel Hidalgo,110000,185
+366,Miguel Hidalgo,185725,97
+367,Miguel Hidalgo,93000,128
+368,Miguel Hidalgo,75000,140
+369,Miguel Hidalgo,33000,43
+370,Miguel Hidalgo,50000,160
+371,Miguel Hidalgo,50000,100
+372,Miguel Hidalgo,65000,160
+373,Miguel Hidalgo,150000,161
+374,Miguel Hidalgo,103000,80
+375,Miguel Hidalgo,75000,75
+376,Miguel Hidalgo,190000,240
+377,Miguel Hidalgo,50000,50
+378,Miguel Hidalgo,29000,110
+379,Miguel Hidalgo,24000,85
+380,Miguel Hidalgo,85000,79
+381,Miguel Hidalgo,120000,80
+382,Miguel Hidalgo,50000,125
+383,Miguel Hidalgo,65000,75
+384,Miguel Hidalgo,149500,160
+385,Miguel Hidalgo,190000,140
+386,Miguel Hidalgo,50000,90
+387,Tláhuac,120000,400
+388,Tláhuac,3500,31
+389,Tláhuac,52000,168
+390,Tláhuac,75000,700
+391,Tláhuac,11430,38
+392,Tláhuac,49000,256
+393,Tláhuac,39130,114
+394,Tláhuac,33600,168
+395,Tláhuac,22000,126
+396,Tláhuac,51200,256
+397,Tláhuac,3500,30
+398,Tláhuac,25000,150
+399,Tláhuac,11430,38
+400,Tláhuac,35000,168
+401,Tláhuac,84800,424
+402,Tláhuac,56000,280
+403,Tlalpan,30000,40
+404,Tlalpan,250000,855
+405,Tlalpan,49000,185
+406,Tlalpan,8000,28
+407,Tlalpan,50000,320
+408,Tlalpan,30000,76
+409,Tlalpan,9000,27
+410,Tlalpan,27000,76
+411,Tlalpan,57600,128
+412,Tlalpan,275000,1588
+413,Tlalpan,49000,300
+414,Tlalpan,25500,57
+415,Tlalpan,60320,124
+416,Tlalpan,35000,76
+417,Tlalpan,7000,40
+418,Tlalpan,59500,1500
+419,Tlalpan,27000,93
+420,Tlalpan,35000,185
+421,Tlalpan,290000,364
+422,Tlalpan,80000,476
+423,Tlalpan,35000,320
+424,Tlalpan,16000,48
+425,Tlalpan,32000,93
+426,Tlalpan,120000,348
+427,Tlalpan,89000,375
+428,Tlalpan,65000,182
+429,Tlalpan,9500,17
+430,Tlalpan,160000,350
+431,Tlalpan,246300,208
+432,Tlalpan,290000,730
+433,Tlalpan,30000,105
+434,Tlalpan,25900,138
+435,Tlalpan,199000,536
+436,Tlalpan,40000,93
+437,Tlalpan,65000,182
+438,Tlalpan,40000,320
+439,Tlalpan,246300,195
+440,Tlalpan,88000,444
+441,Tlalpan,12000,21
+442,Tlalpan,7000,13
+443,Tlalpan,61500,123
+444,Tlalpan,28000,80
+445,Tlalpan,60000,350
+446,Tlalpan,20000,160
+447,Tlalpan,8000,12
+448,Tlalpan,69000,491
+449,Tlalpan,280000,900
+450,Tlalpan,30000,105
+451,Tlalpan,25000,110
+452,Tlalpan,25000,120
+453,Venustiano Carranza,33500,150
+454,Venustiano Carranza,7600,44
+455,Venustiano Carranza,16500,48
+456,Venustiano Carranza,30000,240
+457,Venustiano Carranza,8700,33
+458,Venustiano Carranza,198000,1233
+459,Venustiano Carranza,52000,244
+460,Venustiano Carranza,10000,150
+461,Venustiano Carranza,15000,36
+462,Venustiano Carranza,7000,39
+463,Venustiano Carranza,549000,915
+464,Venustiano Carranza,39900,250
+465,Venustiano Carranza,40000,282
+466,Venustiano Carranza,200000,1000
+467,Venustiano Carranza,20000,55
+468,Venustiano Carranza,10000,28
+469,Venustiano Carranza,35000,300
+470,Venustiano Carranza,35000,285
+471,Venustiano Carranza,130000,600
+472,Venustiano Carranza,7000,35
+473,Venustiano Carranza,25000,110
+474,Venustiano Carranza,30000,395
+475,Venustiano Carranza,50000,500
+476,Venustiano Carranza,35000,150
+477,Venustiano Carranza,26000,185
+478,Venustiano Carranza,6500,22
+479,Venustiano Carranza,5800,12
+480,Venustiano Carranza,15000,160
+481,Venustiano Carranza,9500,50
+482,Azcapotzalco,62500,295
+483,Azcapotzalco,70000,1000
+484,Azcapotzalco,28500,125
+485,Azcapotzalco,80000,419
+486,Azcapotzalco,25000,50
+487,Azcapotzalco,5500,16
+488,Azcapotzalco,20000,200
+489,Azcapotzalco,150000,1155
+490,Azcapotzalco,50000,250
+491,Azcapotzalco,120000,540
+492,Azcapotzalco,28000,120
+493,Azcapotzalco,25000,147
+494,Azcapotzalco,25000,120
+495,Azcapotzalco,60000,200
+496,Azcapotzalco,10000,45
+497,Azcapotzalco,28000,115
+498,Azcapotzalco,59500,147
+499,Azcapotzalco,17500,100
+500,Azcapotzalco,30000,99
+501,Azcapotzalco,64000,320
+502,Azcapotzalco,59500,147
+503,Azcapotzalco,31000,165
+504,Azcapotzalco,35000,80
+505,Azcapotzalco,27000,60
+506,Azcapotzalco,137000,371
+507,Azcapotzalco,36850,129
+508,Azcapotzalco,37050,120
+509,Azcapotzalco,14000,40
+510,Azcapotzalco,30000,100
+511,Azcapotzalco,213300,1185
+512,Azcapotzalco,148000,370
+513,Azcapotzalco,630900,1402
+514,Azcapotzalco,135000,450
+515,Azcapotzalco,231840,725
+516,Azcapotzalco,30000,90
+517,Azcapotzalco,22000,170
+518,Azcapotzalco,289600,724
+519,Azcapotzalco,48000,192
+520,Azcapotzalco,45000,160
+521,Azcapotzalco,25000,140
+522,Azcapotzalco,40000,183
+523,Azcapotzalco,19000,180
+524,Azcapotzalco,25000,80
+525,Azcapotzalco,9300,70
+526,Azcapotzalco,34000,40
+527,Azcapotzalco,79300,130
+528,Azcapotzalco,99000,419
+529,Azcapotzalco,148000,372
+530,Azcapotzalco,68400,230
+531,Azcapotzalco,5500,24
+532,Xochimilco,10995,45
+533,Xochimilco,40000,215
+534,Xochimilco,6500,18
+535,Xochimilco,12500,90
+536,Xochimilco,540000,450
+537,Xochimilco,150000,411
+538,Xochimilco,18000,98
+539,Xochimilco,9500,35
+540,Xochimilco,162790,508
+541,Xochimilco,110000,570
+542,Xochimilco,35000,80
+543,Xochimilco,45000,300
+544,Xochimilco,55000,190
+545,Xochimilco,170000,476
+546,Xochimilco,140200,1000
+547,Xochimilco,130000,400
+548,Xochimilco,30040,93
+549,Xochimilco,95000,560
+550,Xochimilco,47000,248
+551,Xochimilco,20000,90
+552,Xochimilco,16000,62
+553,Xochimilco,7000,268
+554,Xochimilco,180000,476
+555,Xochimilco,45000,250
+556,Xochimilco,100000,400
+557,Xochimilco,40000,260
