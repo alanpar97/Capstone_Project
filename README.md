@@ -12,14 +12,15 @@ According to INEGI, Mexico City has a large amount of restaurants per thousand p
 
 ## Problem
 
-In this project, we will be thinking as a potential restaurant owner. We want to investigate and determine which would be the best category for our new restaurant, and where to open it based on factors such as low competition, low real state costs, dense population, among others.
+In this project, we will be thinking as a potential restaurant owner. We want to investigate and determine which would be the best category for our new restaurant, and where to open it based on factors such as low competition, low real state costs, and population density. There are several more factors that have an impact when making this decisition, but for the purpose of the scope of this project we will only focus on the already mentioned.
+
 
 ## Data
 
-In order to do this project, we will use the following data:
-- *[Foursquare API Data](https://developer.foursquare.com/)* that contains information of the most common venues in each borough in Mexico City. 
-- *[INEGI API Data](https://www.inegi.org.mx/servicios/api_indicadores.html)* that contains data about real state prices, population density.
-- *[Wikipedia - Mexican Postal Codes](https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_postales_mexicanos#Distrito_Federal)* that contains the postal codes of each neighbourhood in Mexico City
+- [Foursquare API](https://developer.foursquare.com/) Data that contains information of the most common venues in each neighbourhood in Mexico City.
+- There isn't a public dataset that concentrates the rental average price per meter square per borough in Mexico City. So I set-up my own dataset based on the rental prices of comercial locals advertised in [Inmuebles24](https://www.inmuebles24.com/). The only borough that did not have enough data to be included in this data set was borough Milpa Alta. You can find my data as a CSV file [here](https://github.com/alanpar97/Capstone_Project/blob/master/Data/borough_avg_price.csv).
+- We will also use INEGI 2015 Population Data to get the population in each borough. Unfortunately, there is not a more updated dataset yet.
+- [Mexican Postal Codes - Mexican Postal Service](https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx) Data that contains the postal codes of each neighbourhood in Mexico City. We will get this data as an XML file provided by the Mexican Postal Service's website.
 
 
 ### References
