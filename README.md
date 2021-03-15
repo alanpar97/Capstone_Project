@@ -27,3 +27,6 @@ In this project, we will be thinking as a potential restaurant owner. We want to
 - [1] [INEGI - Population per Federal Entity](https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Poblacion_Poblacion_01_e60cd8cf-927f-4b94-823e-972457a12d4b)
 - [2] [Mexico City - Wikipedia](https://en.wikipedia.org/wiki/Mexico_City#cite_note-18)
 - [3] [CANIRAC - INEGI (PDF)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiplbqTlJXvAhWlp1kKHQ7QAUYQFjABegQIBRAD&url=http%3A%2F%2Fcanirac.org.mx%2Fimages%2Fen_su_punto%2Ffiles%2Finegi.pdf&usg=AOvVaw3sFn8woiT6IBoYRCLmIJhe)
+
+### Quick Note
+In order to be able to see the maps used in this notebook, I recommend copying the link of the Notebook and render it on [nbviewer.]https://nbviewer.jupyter.org/
